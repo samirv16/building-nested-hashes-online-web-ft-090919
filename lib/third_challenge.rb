@@ -2,7 +2,7 @@ def third_challenge
   epic_tragedy = {
    :montague => {
       :patriarch => {
-        name: "Lord "
+        name: "Lord Montague"
         },
       :matriarch => {
         
